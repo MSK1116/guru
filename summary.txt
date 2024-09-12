@@ -1,0 +1,10 @@
+Guru Prabandhan C
+Summary of data saved on disk
+Name of teacher & their subject
+
+34. Manish Singh Mahato(Math) Salary: 1200
+----------------------------------
+1. Ram Yadav(Nepali) Salary: 30000
+----------------------------------
+The total expenditure on salary is 31200
+ Where highest paid salary is 30000 and least paid salary is 1200
